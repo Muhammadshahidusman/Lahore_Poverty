@@ -1,5 +1,7 @@
 # Pakistan Poverty Lens — Phase 1 Pipeline (Lahore Pilot)
 
+Portfolio: https://muhammadshahidusman.github.io
+
 Working code for Phase 1 (Environment & Data Engineering) of the roadmap:
 grid tiling → Earth Engine ingestion → spectral indices → OSM features.
 
